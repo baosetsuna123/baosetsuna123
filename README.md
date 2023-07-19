@@ -1,6 +1,6 @@
 # 💫About Me :
 I'm from Thu Duc city, Viet Nam.
-I'm looking forward to be a backend developer
+I'm looking forward to be a backend developer.
 My hobbies are technological trend, communicate and work with other people who can share knowledge each other to improve myself better !
 
 
